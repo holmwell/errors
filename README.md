@@ -1,6 +1,10 @@
 # errors
 Error handling for Node.js and Express
 
+To install:
+
+    npm install @holmwell/errors
+
 This is a naive module for error handling that just logs
 to the console. Aside from log, the most common function
 used is `guard`, which is good for turning code like this:
