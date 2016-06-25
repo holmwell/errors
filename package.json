@@ -1,0 +1,19 @@
+{
+  "name": "@holmwell/errors",
+  "version": "1.0.0",
+  "description": "Error handling for Express projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holmwell/errors.git"
+  },
+  "author": "Phil Manijak",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/holmwell/errors/issues"
+  },
+  "homepage": "https://github.com/holmwell/errors#readme"
+}
